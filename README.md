@@ -1,1 +1,1 @@
-# code and some homework
+# machine learning ,Algorithms and data structures
